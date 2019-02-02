@@ -26,9 +26,9 @@ MPU6050/6000 (USE MPU 6000, THE BLUE CHIP):
 
 ---
 
-## Refences
+## References
 
-https://github.com/jrowberg/i2cdevlib
-https://www.instructables.com/id/BYJ48-Stepper-Motor/
+- https://github.com/jrowberg/i2cdevlib
+- https://www.instructables.com/id/BYJ48-Stepper-Motor/
 
 Yilin Zhang 2019.01.15
